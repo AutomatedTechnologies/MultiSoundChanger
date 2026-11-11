@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** MultiSoundChanger — https://github.com/rlxone/MultiSoundChanger
-- **Original authors:** "Licensor" shall mean the copyright owner or entity authorized by; the copyright owner that is granting the License.; copyright notice that is included in or attached to the work
+- **Original authors:** Not stated upstream — no author/copyright-holder attribution found in the upstream LICENSE, README, or repository metadata at acquisition; no credit substituted.
 - **License:** Apache-2.0 (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 116514b78e3a2b173eface8ab72b90960f851478 (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
